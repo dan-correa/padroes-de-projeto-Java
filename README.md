@@ -1,5 +1,5 @@
 # Explorando padrões de projeto com Java
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/neliocursos/exemplo-readme/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/dan-correa/padroes-de-projeto-Java/blob/main/LICENSE) 
 
 # Sobre o projeto
 
